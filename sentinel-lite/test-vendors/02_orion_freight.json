@@ -1,0 +1,17 @@
+{
+  "vendor_name": "Orion Freight",
+  "country": "Zorvania",
+  "category": "goods",
+  "handles_personal_data": false,
+  "certificate": null,
+  "certificate_expiry": null,
+  "insurance_usd": 200000,
+  "code_of_conduct_signed": true,
+  "mock": true,
+  "notes": "Physical logistics vendor applying for regional supplier agreement.",
+  "_expected_result": {
+    "verdict": "REJECTED",
+    "verified": true,
+    "cited_chunks": ["P1.1", "P2.1"]
+  }
+}

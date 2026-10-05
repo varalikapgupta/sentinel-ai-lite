@@ -1,0 +1,17 @@
+{
+  "vendor_name": "Brightleaf Software",
+  "country": "Norvia",
+  "category": "software",
+  "handles_personal_data": true,
+  "certificate": "DATASAFE-2",
+  "certificate_expiry": "2027-06-30",
+  "insurance_usd": 150000,
+  "code_of_conduct_signed": true,
+  "mock": true,
+  "notes": "Standard software vendor onboarding submission.",
+  "_expected_result": {
+    "verdict": "APPROVED",
+    "verified": true,
+    "cited_chunks": ["P1.2", "P2.2", "P3.1", "P3.2", "P4.1"]
+  }
+}
